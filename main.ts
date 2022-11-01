@@ -48,4 +48,4 @@ radio.onReceivedNumber(function (receivedNumber) {
             `)
     }
 })
-radio.setGroup(99)
+radio.setGroup(100)
